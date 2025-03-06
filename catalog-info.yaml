@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
 spec:
-  type: other
-  lifecycle: unknown
+  type: api
+  lifecycle: experimental
   owner: guests
