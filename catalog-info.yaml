@@ -4,7 +4,7 @@ metadata:
   name: nodejs-api-catalog
   description: Node.js API template
   tags:
-    - node.js
+    - nodejs
   links:
     - url: https://admin.example-org.com
       title: Admin Dashboard
