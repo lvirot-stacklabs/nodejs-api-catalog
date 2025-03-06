@@ -2,6 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: nodejs-api-catalog
+  description: Node.js API template
+  tags:
+    - node.js
+  links:
+    - url: https://admin.example-org.com
+      title: Admin Dashboard
+      icon: dashboard
+      type: admin-dashboard
   annotations:
     github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
 spec:
