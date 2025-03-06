@@ -13,6 +13,6 @@ metadata:
   annotations:
     github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
 spec:
-  type: api
+  type: service
   lifecycle: experimental
   owner: guests
