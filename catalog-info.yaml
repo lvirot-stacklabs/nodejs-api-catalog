@@ -12,6 +12,7 @@ metadata:
       type: admin-dashboard
   annotations:
     github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
+    backstage.io/kubernetes-namespace: backstage
 spec:
   type: service
   lifecycle: experimental
