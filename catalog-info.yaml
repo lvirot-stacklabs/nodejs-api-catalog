@@ -13,6 +13,7 @@ metadata:
   annotations:
     github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
     backstage.io/kubernetes-namespace: backstage
+    backstage.io/kubernetes-id: backstage
 spec:
   type: service
   lifecycle: experimental
