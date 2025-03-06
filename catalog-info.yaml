@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nodejs-api-catalog
+  annotations:
+    github.com/project-slug: lvirot-stacklabs/nodejs-api-catalog
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
